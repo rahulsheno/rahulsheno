@@ -1,5 +1,5 @@
-# 💫 About Me:
-- 🔭 **I'm currently working on:** A few AI and machine learning projects while exploring ways to solve real-world problems.<br><br>- 👯 **I'm looking to collaborate on:** AI/ML, Computer Vision, NLP, hackathons, and open-source projects.<br><br>- 🤝 **I'm looking for help with:** Learning MLOps, contributing to open source, and finding opportunities to grow as a developer.<br><br>- 🌱 **I'm currently learning:** Deep Learning, PyTorch, SQL, DSA, and the fundamentals of Generative AI.<br><br>- 💬 **Ask me about:** Python, Machine Learning, AI projects, coding, or student life at PES University.<br><br>- ⚡ **Fun fact:** You'll usually find me debugging, learning something new, or turning random ideas into projects.
+# 💫 Hi, I'm Rahulsheno
+- 🔭 **I'm currently working on:** A few AI and machine learning projects while exploring ways to solve real-world problems.<br><br>- 🎓 **Education:** PES University, ECC B.Tech in Computer Science (AI & ML).<br><br>- 👯 **I'm looking to collaborate on:** AI/ML, Computer Vision, NLP, hackathons, and open-source projects.<br><br>- 🌱 **I'm currently learning:** Deep Learning, PyTorch, SQL, DSA, and the fundamentals of Generative AI.<br><br>- 💬 **Ask me about:** Python, Machine Learning, AI projects, coding, or student life at PES University.<br><br>- ⚡ **Fun fact:** You'll usually find me debugging, learning something new, or turning random ideas into projects.
 
 
 # 💻 Tech Stack:
